@@ -34,7 +34,7 @@ if (isset($_POST['submit_btn'])) {
     $message = $_POST['message'];
 
     // $mail->addAddress("admin@aptak.or.ke", "APTAK");
-    $mail->addAddress("jangolmasters@gmail.com", "APTAK");
+    $mail->addAddress("hillaryokello19@gmail.com", "APTAK");
     // $mail->SetFrom($email, $username);
     // $mail->AddReplyTo($email, $username);
 
