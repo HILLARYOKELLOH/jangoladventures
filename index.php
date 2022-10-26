@@ -186,7 +186,7 @@
 	                        </div>
 	                    </div>
 	                    <div class="item">
-	                        <img class="img-fluid" src="img/kws.png" alt="">
+	                        <img class="img-fluid" src="img/KWS.png" alt="">
 	                        <div class="caption text-center mt-20">
 
 	                        </div>
