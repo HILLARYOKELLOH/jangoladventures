@@ -218,6 +218,7 @@
 						</div>
 
 
+
 					</div>
 				</div>
 			</div>
@@ -611,8 +612,11 @@
 							<p>Let us be social</p>
 							<div class="footer-social d-flex align-items-center">
 								<a href="https://www.facebook.com/profile.php?id=100075950862454"><i class="fa fa-facebook"></i></a>
-								<a href="https://www.linkedin.com/in/jangol-masters-adventures-and-events-70b09a234"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+								<a href="https://twitter.com/Jangol_Masters?t=m-z52I5QG8ZPZj7vBf8OAQ&s=09"><i class="fa fa-twitter"></i></a>
 								<a href="http://www.instagram.com/jangolmastersadventures"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+								<a href="https://www.linkedin.com/in/jangol-masters-adventures-and-events-70b09a234"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+								<a href="https://www.pinterest.com/Jangol_masters/?invite_code=e64bf6836630450d9237838fda105756&sender=986218155808493919"><i class="fa fa-pinterest" aria-hidden="true"></i></a>
+
 							</div>
 						</div>
 					</div>
