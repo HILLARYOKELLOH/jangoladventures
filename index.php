@@ -210,6 +210,12 @@
 
 							</div>
 						</div>
+						<div class="item">
+							<img class="img-fluid" src="img/tujengane.jpeg" alt="">
+							<div class="caption text-center mt-20">
+
+							</div>
+						</div>
 
 
 					</div>
