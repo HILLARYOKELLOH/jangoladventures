@@ -913,13 +913,13 @@ h1, h2, h3, h4, h5, h6 {
 
 .genric-btn.primary {
   color: #fff;
-  background: #284420 ;
+  background: #212D14 ;
   border: 1px solid transparent;
 }
 
 .genric-btn.primary:hover {
   color: #284420 ;
-  border: 1px solid #284420 ;
+  border: 1px solid #212D14 ;
   background: #fff;
 }
 
@@ -1067,7 +1067,7 @@ h1, h2, h3, h4, h5, h6 {
 .generic-blockquote {
   padding: 30px 50px 30px 30px;
   background: #f9f9ff;
-  border-left: 2px solid #284420 ;
+  border-left: 2px solid #212D14 ;
 }
 
 .progress-table-wrap {
@@ -1191,7 +1191,7 @@ h1, h2, h3, h4, h5, h6 {
   position: absolute;
   width: 14px;
   height: 14px;
-  border: 3px solid #284420 ;
+  border: 3px solid #212D14 ;
   background: #fff;
   top: 4px;
   left: 0;
@@ -1204,7 +1204,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .ordered-list li {
   list-style-type: decimal-leading-zero;
-  color: #284420 ;
+  color: #212D14 ;
   font-weight: 500;
   line-height: 1.82em !important;
 }
@@ -1217,7 +1217,7 @@ h1, h2, h3, h4, h5, h6 {
 .ordered-list-alpha li {
   margin-left: 30px;
   list-style-type: lower-alpha;
-  color: #284420 ;
+  color: #212D14;
   font-weight: 500;
   line-height: 1.82em !important;
 }
@@ -1230,7 +1230,7 @@ h1, h2, h3, h4, h5, h6 {
 .ordered-list-roman li {
   margin-left: 30px;
   list-style-type: lower-roman;
-  color: #284420 ;
+  color: #212D14 ;
   font-weight: 500;
   line-height: 1.82em !important;
 }
@@ -1302,7 +1302,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .single-input-primary:focus {
   outline: none;
-  border: 1px solid #284420;
+  border: 1px solid #212D14;
 }
 
 .single-input-accent {
@@ -1363,7 +1363,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 15px;
   height: 15px;
   border-radius: 50%;
-  background: #284420 ;
+  background: #212D14 ;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   -o-transition: all 0.2s;
@@ -1795,12 +1795,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .default-select .nice-select .list .option.selected {
-  color:#284420 ;
+  color:#212D14 ;
   background: transparent;
 }
 
 .default-select .nice-select .list .option:hover {
-  color: #284420 ;
+  color: #212D14;
   background: transparent;
 }
 
@@ -1850,12 +1850,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .form-select .nice-select .list .option.selected {
-  color: #284420 ;
+  color: #212D14 ;
   background: transparent;
 }
 
 .form-select .nice-select .list .option:hover {
-  color: #284420 ;
+  color: #212D14 ;
   background: transparent;
 }
 
@@ -1911,7 +1911,7 @@ h1, h2, h3, h4, h5, h6 {
 .navbar-nav a {
   text-transform: uppercase;
   font-weight: 600;
-  color: #fff;
+  color: white;
   padding: 20px;
 }
 
@@ -1951,15 +1951,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .p1-gradient-bg, .primary-btn, .primary-btn2:hover, .single-feature:hover, .video-area .overlay-bg, .single-footer-widget .click-btn, .generic-banner {
-  background-image: -moz-linear-gradient(0deg, #284420 0%, #284420 100%);
-  background-image: -webkit-linear-gradient(0deg, #284420  0%, #284420 100%);
-  background-image: -ms-linear-gradient(0deg, #284420 0%, #284420 100%);
+  background-image: -moz-linear-gradient(0deg, #212D14 0%, #212D14 100%);
+  background-image: -webkit-linear-gradient(0deg, #212D14  0%, #212D14 100%);
+  background-image: -ms-linear-gradient(0deg, #212D14 0%, #212D14 100%);
 }
 
 .p1-gradient-color, .counter-left h2, .footer-social a:hover i, .single-footer-widget .bb-btn {
-  background: -moz-linear-gradient(0deg, #284420 0%, #284420 100%);
-  background: -webkit-linear-gradient(0deg, #284420 0%, #284420 100%);
-  background: -ms-linear-gradient(0deg, #284420 0%, #284420 100%);
+  background: -moz-linear-gradient(0deg, #212D14 0%, #212D14 100%);
+  background: -webkit-linear-gradient(0deg, #212D14 0%, #212D14 100%);
+  background: -ms-linear-gradient(0deg, #212D14 0%, #212D14 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -2019,11 +2019,11 @@ h1, h2, h3, h4, h5, h6 {
 
 .primary-btn.white:hover {
   background: #fff;
-  color: #284420;
+  color: #212D14;
 }
 
 .primary-btn.white:hover span {
-  color: #284420;
+  color: #212D14;
 }
 
 .primary-btn2 {
@@ -2058,7 +2058,7 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (max-width: 992px) {
   .default-header {
-    background-color: #222;
+    background-color: transparent;
   }
 }
 
@@ -2071,7 +2071,7 @@ h1, h2, h3, h4, h5, h6 {
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
-  background-color: #222;
+  background-color: #212D14;
 }
 
 .dropdown-item {
@@ -2137,7 +2137,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .default-banner h1 {
-  color: #222;
+  color: #fff;
   font-size: 72px;
   font-weight: 700;
   line-height: 1em;
@@ -2350,7 +2350,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .active-works-carousel .owl-dots .owl-dot.active {
-  background: #284420 ;
+  background: #212D14 ;
   box-shadow: 0px 10px 20px 0px rgba(0, 0, 0, 0.2);
 }
 
